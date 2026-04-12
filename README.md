@@ -8,7 +8,7 @@
 
 - **AES-256 encryption** (default) — with fallback support for AES-128, RC4-128, RC4-40
 - **Separate user & owner passwords** — control who can open vs. who has full permissions
-- **Metadata preservation** — copies author, title, and subject from source PDF
+- **Metadata preservation** — copies author, title and subject from source PDF
 - **Batch mode** — encrypt all PDFs in a directory in one command
 - **Clean CLI** — intuitive subcommands with helpful error messages
 - **Importable Python API** — use `encrypt_pdf()` directly in your own scripts
