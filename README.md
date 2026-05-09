@@ -1,4 +1,4 @@
-# PDF Encryptor 
+# PDF Encryptor
 
 > A lightweight Python tool to password-protect PDFs with AES-256, batch support and a clean CLI.
 
