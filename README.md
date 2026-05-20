@@ -4,7 +4,7 @@
 
 ---
 
-## Features
+## Features 
 
 - **AES-256 encryption** (default) — with fallback support for AES-128, RC4-128, RC4-40
 - **Separate user & owner passwords** — control who can open vs. who has full permissions
